@@ -1,0 +1,3 @@
+git add .
+git commit -m 'Debugging is necessary'
+git push
