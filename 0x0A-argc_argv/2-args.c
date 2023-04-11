@@ -5,7 +5,7 @@
 * main - prints each argument passed to program on a line
 * @argc: argument counter
 * @argv: points to array of arguments
-* Return: 0 if successful
+* Return: 0 on success
 */
 int main(int argc, char *argv[])
 {
